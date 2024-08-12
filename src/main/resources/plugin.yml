@@ -1,0 +1,30 @@
+name: ITo-SocialMedia
+version: '1.0'
+main: pl.polsatgranie.itomsd.socialMedia.SocialMedia
+api-version: '1.13'
+load: STARTUP
+authors: [ PolsatGraniePL ]
+description: IToMSD plugin
+website: https://itomsd.com/
+commands:
+  discord:
+    description: Displays discord link
+    aliases: [dc]
+  youtube:
+    description: Displays youtube link
+    aliases: [yt]
+  instagram:
+    description: Displays instagram link
+    aliases: [ig]
+  website:
+    description: Displays website link
+    aliases: [www]
+  tiktok:
+    description: Displays tiktok link
+    aliases: [tt]
+  smreload:
+    description: Reloaded plugin.
+    permission: itomsd.socialmedia.reload
+    aliases: ["socialmediareload"]
+  itomsd:
+    description: ItoMSD informations.

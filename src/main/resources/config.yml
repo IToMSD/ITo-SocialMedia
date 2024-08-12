@@ -1,0 +1,49 @@
+#------------------------------------------------------------
+#|                                                          |
+#|      _  _______        __     __    _____   ____         |
+#|     | ||___ ___|      |  \   /  |  / ____| |  _ \        |
+#|     | |   | |   ___   | |\\ //| | | (___   | | \ \       |
+#|     | |   | |  / _ \  | | \_/ | |  \___ \  | |  ) )      |
+#|     | |   | | | (_) | | |     | |  ____) | | |_/ /       |
+#|     |_|   |_|  \___/  |_|     |_| |_____/  |____/        |
+#|                                                          |
+#|                                                          |
+#------------------------------------------------------------
+#|                 +==================+                     |
+#|                 |    SocialMedia   |                     |
+#|                 |------------------|                     |
+#|                 |        1.0       |                     |
+#|                 |------------------|                     |
+#|                 |  PolsatGraniePL  |                     |
+#|                 +==================+                     |
+#------------------------------------------------------------
+#
+# Hello, if you need help or have an idea that will improve our plugin,
+#                   then be sure to contact us:
+#
+#  IToMSD Website: https://itomsd.com/
+#  IToMSD Discord: https://dc.itomsd.com/
+#  IToMSD SpigotMC: https://www.spigotmc.org/resources/authors/itomsd.1983449/
+
+
+
+
+# format - How messages should be displayed in the chat
+# links - Links to Social Media - If empty, the link will be disabled
+
+format: "&a&lLink&8: &r%link%"
+links:
+  discord: "https://dc.itomsd.com/"
+  youtube: "https://www.youtube.com/@IToMSD"
+  instagram: ""
+  website: "https://itomsd.com/"
+  tiktok: "https://www.tiktok.com/@itomsd"
+
+
+
+
+# Messages
+
+no-permission-message: 'You do not have permission to use this command.'
+link-no-available: 'The link to this platform is not available.'
+plugin-reloaded: "&aPlugin reloaded."
