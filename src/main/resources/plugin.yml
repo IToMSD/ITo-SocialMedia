@@ -27,4 +27,4 @@ commands:
     permission: itomsd.socialmedia.reload
     aliases: ["socialmediareload"]
   itomsd:
-    description: ItoMSD informations.
+    description: IToMSD informations.
